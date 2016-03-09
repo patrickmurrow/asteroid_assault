@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Desktop\COSC 360 Project\Assets\scripts\HelpManScript.js">
+    <Files>
+      <File FileName="..\..\..\..\Desktop\COSC 360 Project\Assets\scripts\HiddenRoomScript.js" Line="76" Column="18" />
+      <File FileName="..\..\..\..\Desktop\COSC 360 Project\Assets\scripts\PlayerScript.js" Line="41" Column="22" />
+      <File FileName="..\..\..\..\Desktop\COSC 360 Project\Assets\scripts\HelpManScript.js" Line="20" Column="21" />
+      <File FileName="..\..\..\..\Desktop\COSC 360 Project\Assets\scripts\EndLevelScript.js" Line="28" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

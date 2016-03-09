@@ -1,0 +1,50 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7670M (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2025 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.231 seconds
+desktop: 1280x720 60Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.242208 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 138.
+Total: 10.163319 ms (FindLiveObjects: 0.006157 ms CreateObjectMapping: 0.006978 ms MarkObjects: 0.116178 ms  DeleteObjects: 9.649754 ms)
+
+UnloadTime: 0.581711 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 1.260716 ms (FindLiveObjects: 0.020115 ms CreateObjectMapping: 0.019705 ms MarkObjects: 0.209777 ms  DeleteObjects: 0.025862 ms)
+
+UnloadTime: 0.723752 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 5.108958 ms (FindLiveObjects: 0.027505 ms CreateObjectMapping: 0.025041 ms MarkObjects: 0.274229 ms  DeleteObjects: 3.449624 ms)
+
+Platform assembly: C:\Users\Patrick\Documents\COSC 360\Assignment One\PatrickMurrow_AssignmentOne\Asteroid Assault_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 2.314118 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 2.195477 ms (FindLiveObjects: 0.022989 ms CreateObjectMapping: 0.023810 ms MarkObjects: 0.294755 ms  DeleteObjects: 0.628510 ms)
+
+UnloadTime: 0.642879 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 2.130614 ms (FindLiveObjects: 0.024631 ms CreateObjectMapping: 0.024220 ms MarkObjects: 0.282029 ms  DeleteObjects: 0.335807 ms)
+

@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameOverScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\AttackClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AsteroidClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AlienClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelMaster.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMaster.js" Line="9" Column="31" />
+      <File FileName="Assets\Scripts\EarthClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOverScript.js" Line="46" Column="64" />
+      <File FileName="Assets\Scripts\MainMenuClass.js" Line="27" Column="58" />
+      <File FileName="Assets\Scripts\BriefClass.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InstructionClass.js" Line="19" Column="19" />
+      <File FileName="Assets\Scripts\WinScript.js" Line="21" Column="32" />
+      <File FileName="Assets\Scripts\UtilScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
